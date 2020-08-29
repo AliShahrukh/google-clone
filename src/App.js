@@ -10,7 +10,7 @@ function App() {
         <Switch>
 
           <Route path="/search">
-            <SearchPage />
+            <h1>This is Search..</h1>
           </Route>
 
           <Route path="/">
